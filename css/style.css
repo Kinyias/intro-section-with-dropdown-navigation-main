@@ -304,6 +304,7 @@ header .group-btn .register:hover {
   .icon-menu {
     cursor: pointer;
     width: 2rem;
+    display: block;
   }
 
   .active {
